@@ -7,13 +7,18 @@ import Footer from './components/Footer';
 
 function App() {
   return (
-    <div style={{ background: '#141414' }}>
+    <div
+      style={{
+        backgroundImage:
+          'linear-gradient(132deg, rgba(0,0,0,1) 0%, rgba(37,45,47,1) 100%)',
+      }}
+    >
       <Menu />
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
         videoDescription={
-          'O que é Front-end? Trabalhando na área os termos HTML, CSS e JavaScript fazem parte da rotina das desenvolvedoras e desenvolvedores. Mas o que eles fazem, afinal? Descubra com a Vanessa!'
+          'Neste vídeo mostro como implementar uma funcionalidade para autenticação de usuários, caso o usuário não esteja autenticado o mesmo não poderá acessar a aplicação e será redirecionado para o formulário de login.'
         }
       />
       <Carousel ignoreFirstVideo category={dadosIniciais.categorias[0]} />

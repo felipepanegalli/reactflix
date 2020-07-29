@@ -10,54 +10,54 @@
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "React - Implementando autenticação de usuários",
+          "url": "https://www.youtube.com/watch?v=kAHVIjNZ6WI"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "React Hooks na prática | Diego Fernandes",
+          "url": "https://www.youtube.com/watch?v=6WB16wZS61c&t=1203s"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Desvendando o Redux na prática | Diego Fernandes",
+          "url": "https://www.youtube.com/watch?v=u99tNt3TZf8"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Programei em React JS o Frontend do AirCnC (usando React Hooks como useEffect e useMemo)",
+          "url": "https://www.youtube.com/watch?v=Gmiz-j_K340"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "[Front-End] React - Criando meu primeiro projeto",
+          "url": "https://www.youtube.com/watch?v=FkzTsQ2whdk"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Learn React JS - Full Course for Beginners - Tutorial 2019",
+          "url": "https://www.youtube.com/watch?v=DLX62G4lc44"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "React JS - Criando um App do Zero - Programador Br",
+          "url": "https://www.youtube.com/watch?v=tbLziJchz48"
         },
         {
           "titulo": "Base para aprender os frameworks",
           "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+        }
       ]
     },
     {
       "titulo": "Back End",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Criando um Bot que lê os comentários do Instagram, com node js.",
+        "url": "https://www.youtube.com/watch?v=zrM7EwUXsYU"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Back-end - Implementando autenticação de usuários",
+          "url": "https://www.youtube.com/watch?v=rFnWwl-zE5M"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "NodeJS + Express + Mongo!",
+          "url": "https://www.youtube.com/watch?v=KKTX1l3sZGk"
         },
         {
           "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
@@ -66,7 +66,7 @@
         {
           "titulo": "API: Dicionário do Programador",
           "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
+        },
         {
           "titulo": "Usando Git Direito",
           "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
@@ -78,16 +78,16 @@
       "cor": "#9cd33b",
       "link_extra": {
         "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "url": "https://www.youtube.com/watch?v=KdgKQoq1jk0"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Lembra Daquela I.A. Que Programava Sozinha? Então...",
+          "url": "https://www.youtube.com/watch?v=Cr89Oz0TWQM"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "E Agora? Nova Inteligência Artificial Começou a Programar Sozinha",
+          "url": "https://www.youtube.com/watch?v=KdgKQoq1jk0"
         },
         {
           "titulo": "Melhor forma de aprender Python",
@@ -104,20 +104,20 @@
       "cor": "orange",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Joker",
+          "url": "https://www.youtube.com/watch?v=KUlIaSTYbuo"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "VINGADORES: ULTIMATO (Legendado)",
+          "url": "https://www.youtube.com/watch?v=a6ZHFI1Otd0"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "X-Men: Fênix Negra (Dublado)",
+          "url": "https://www.youtube.com/watch?v=NpSCTNtI8Mk"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "1917",
+          "url": "https://www.youtube.com/watch?v=_wcbqMUNBF4"
         }
       ]
     },
@@ -130,24 +130,24 @@
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "THE LAST OF US 2",
+          "url": "https://www.youtube.com/watch?v=s9y8MIKxnbY"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Far Cry 6 - Official Reveal Trailer",
+          "url": "https://www.youtube.com/watch?v=-IJuKT1mHO8"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Prince of Persia (1992 Macintosh) ",
+          "url": "https://www.youtube.com/watch?v=zjR_AhxPnVM"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Ghost of Tsushima",
+          "url": "https://www.youtube.com/watch?v=iqysmS4lxwQ"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Cuphead ",
+          "url": "https://www.youtube.com/watch?v=7sQh7CfZI14"
         }
       ]
     },
@@ -160,16 +160,16 @@
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "TECNOLOGIAS MUITO INTELIGENTES QUE ESTÃO EM OUTRO NÍVEL",
+          "url": "https://www.youtube.com/watch?v=utql4IgG3x8"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "RESUMO CES 2020: NOVIDADES SOBRE O FUTURO DA TECNOLOGIA",
+          "url": "https://www.youtube.com/watch?v=bWdyXhDxFJA"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "10 COISAS GENIAIS QUE VOCÊ PODE COMPRAR NA INTERNET",
+          "url": "https://www.youtube.com/watch?v=YZqB3Kg3oAY"
         },
         {
           "titulo": "A mágica do Aprendizado",
